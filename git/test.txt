@@ -7,6 +7,5 @@ Adding a second line
 My name is Mayuri
 
 adding a new line
->>>>>>> 3e0157acda5f2a7c3be899ea58077e91af34b85b
 
 adding some text
